@@ -123,6 +123,9 @@
     <PackageReference Include="InTheHand.Net.Obex">
       <Version>4.0.4</Version>
     </PackageReference>
+    <PackageReference Include="InTheHand.Pontoon">
+      <Version>10.2018.10.2</Version>
+    </PackageReference>
     <PackageReference Include="PresentationFramework">
       <Version>4.6.0</Version>
     </PackageReference>
